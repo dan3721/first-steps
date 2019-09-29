@@ -13,7 +13,7 @@ Using a Raspberry Pi (Model B Rev 2) to drive a AP-68 stepper motor.
     Weight           177 Grams
 
 ## Setup
-![full setup](setup.jpg)
+![full setup](setup.jpg?fixOrientation)
 
 ## Schema
 ![circut schema](first-steps_schem.png)
