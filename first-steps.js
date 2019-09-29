@@ -111,7 +111,7 @@ function rotate (degrees, steppingMode, delayInMillis, reverse) {
 
 if (process.argv.length != 6) {
   console.log(
-    'Usage: sudo node steps DEGREES STEPPING_MODE(full|half) DELAY_IN_MILLIS, REVERSE(true|false)')
+    'Usage: sudo node first-steps.js DEGREES STEPPING_MODE(full|half) DELAY_IN_MILLIS, REVERSE(true|false)')
   process.exit(1)
 }
 else {

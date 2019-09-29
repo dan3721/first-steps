@@ -15,8 +15,8 @@ Using a Raspberry Pi (Model B Rev 2) to drive a AP-68 stepper motor.
 ## Setup
 ![full setup](setup.jpg?fixOrientation)
 
-## Schema
-![circut schema](first-steps_schem.png)
+## Schematic
+![schematic](schematic.png)
 
 ## Driver Circut
 ![driver circut](driver-circut.jpg)
@@ -31,11 +31,11 @@ Now you should be ready to run it!
 
 Turn 90° using full stepping with a step delay of 100 milliseconds 
 
-    sudo node steps.js 90 full 100 false
+    sudo node first-steps.js 90 full 100 false
     
-Turn 180° using full stepping with a step delay of 100 milliseconds 
+Turn 180° using full stepping with a step delay of 50 milliseconds 
 
-    sudo node steps.js 180 half 50 false
+    sudo node first-steps.js 180 half 50 false
     
 See first-steps.js for usage and details.
 
