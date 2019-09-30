@@ -1,7 +1,7 @@
 /**
  * Demo driver code for a AP-68 Stepper motor.
  *
- * Usage: sudo node steps DEGREES STEPPING_MODE(full|half) DELAY_IN_MILLIS, REVERSE(true|false)
+ * Usage: sudo node first-steps.js DEGREES STEPPING_MODE(full|half) DELAY_IN_MILLIS, REVERSE(true|false)
  *
  * AP-68 Specs
  *
