@@ -47,3 +47,17 @@ See first-steps.js for usage and details.
     pigs-steps.sh           # spin the motor 360°
     sudo killall pigpiod    # shutdown the pigpiod daemon
 
+## 28BYJ-48
+
+### Setup
+![28BYJ-48 Setup](28BYJ-48.jpg)
+
+Got this guy to run too using simple pigs script([28BYJ-48.sh](28BYJ-48.sh)).
+
+### In Action
+![28BYJ-48 In Action](28BYJ-48.mp4)
+
+### Reference
+
+1. [Dummies guide on driving a 28BYJ-48 Stepper Motor with a ULN2003 Driver Board and Arduino](https://www.seeedstudio.com/blog/2019/03/04/driving-a-28byj-48-stepper-motor-with-a-uln2003-driver-board-and-arduino/)
+1. [28BYJ48 Datasheet](28BYJ48-12-300-01-FullingMotor.pdf)
